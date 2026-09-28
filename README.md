@@ -13,11 +13,10 @@ et gestion de projet.
 
 | | |
 |---|---|
-| [portfolio-callista-lore](https://github.com/by-teenspirit/portfolio-callista-lore) | Mon portfolio. React, TypeScript, Vite. |
+| [portfolio-callista-lore](https://github.com/by-teenspirit/portfolio-callista-lore) | Mon portfolio. React, TypeScript, Vite, Three.js. |
 | [landing-page-pes](https://github.com/by-teenspirit/landing-page-pes) | Landing page de PES Dépannage, mon projet entrepreneurial : mise en relation entre artisans et particuliers. |
-| [landing-page-ot-crm](https://github.com/by-teenspirit/landing-page-ot-crm) | Page de présentation d'un outil CRM pour un office du tourisme. TypeScript. |
-| [Locatic](https://github.com/by-teenspirit/Locatic) | ⟵ Projet en CSharp pour louer une voiture |
-| [devops-training](https://github.com/by-teenspirit/devops-training) | ⟵ Apprentissage du devops |
+| [Locatic](https://github.com/by-teenspirit/Locatic) | Application de location de voitures en C# / .NET 8, avec sa chaîne DevOps complète : GitHub Actions, Docker, Terraform, Ansible et Kubernetes. |
+| [devops-training](https://github.com/by-teenspirit/devops-training) | Mes notes de cours DevOps et l'application fil rouge qui sert à les mettre en pratique. |
 
 ### Contributions
 
