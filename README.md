@@ -15,10 +15,19 @@ et gestion de projet.
 |---|---|
 | [portfolio-callista-lore](https://github.com/by-teenspirit/portfolio-callista-lore) | Mon portfolio. React, TypeScript, Vite, Three.js. |
 | [landing-page-pes](https://github.com/by-teenspirit/landing-page-pes) | Landing page de PES Dépannage, mon projet entrepreneurial : mise en relation entre artisans et particuliers. |
+| [forumactif-css](https://github.com/by-teenspirit/forumactif-css) | Les forums Forumactif que je personnalise, de la maquette au code livré : feuilles de style, scripts et fiches codées, un dossier par forum. |
 | [Locatic](https://github.com/by-teenspirit/Locatic) | Application de location de voitures en C# / .NET 8, avec sa chaîne DevOps complète : GitHub Actions, Docker, Terraform, Ansible et Kubernetes. |
 | [devops-training](https://github.com/by-teenspirit/devops-training) | Mes notes de cours DevOps et l'application fil rouge qui sert à les mettre en pratique. |
 
 ### Contributions
+
+**[AgentScope](https://github.com/KJovene/AgentScope)** — plateforme d'exploration de traces
+d'agents de développement IA : importer des sources hétérogènes, les normaliser dans un modèle
+commun et les lire dans un dashboard, avec un assistant qui propose le mapping d'un fichier
+inconnu et explique ses choix. Monolithe modulaire en Clean Architecture, FastAPI et SQLAlchemy
+côté back, React 19 + TypeScript côté front. J'y ai livré le front : le dashboard et ses
+graphiques, la timeline de session, le panneau de qualité des données, l'éditeur de mapping avec
+sa prévisualisation et son écran de rejets, et le design de l'assistant.
 
 **[HETIC-projet-cinema](https://github.com/mathieusouflis/HETIC-projet-cinema)** — plateforme
 communautaire de films et séries, monorepo TypeScript en équipe : API Express 5 + Socket.IO,
